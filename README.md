@@ -2,7 +2,7 @@
 A Balck Jack game to have fun !
 
 
-To play a hand of Blackjack the following steps must be followed:
+To play a hand of Blackjack the following steps must be followed:-
 
 1.Create a deck of 52 cards
 
@@ -30,9 +30,10 @@ To play a hand of Blackjack the following steps must be followed:
 
 
 
-Working of game:
+Working of game:-
 
 while True:
+
     # Print an opening statement
 
     # Create & shuffle the deck, deal two cards to each player
