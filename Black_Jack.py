@@ -129,7 +129,7 @@ def show_some(player, dealer):
     print("\nPlayer's Hand:", *player.cards, sep='\n ')
 
 
-# Function to display cards
+# Function to display values of cards
 def show_all(player, dealer):
     print("\nDealer's Hand:", *dealer.cards, sep='\n ')
     print("Dealer's Hand =", dealer.value)
